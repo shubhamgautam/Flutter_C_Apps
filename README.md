@@ -3,7 +3,7 @@
 <p> This project is to practice flutter, i will be developing all the major apps(Android/ ios) screens in 
 Flutter and submitting it here.
 
- One point to notice for now , i am not going to integrate it api's, though there will eb service layer
+ for now i won't be integrating any api's, though there will be service layer
  to fetch and update dummy data.
  
  </p>
